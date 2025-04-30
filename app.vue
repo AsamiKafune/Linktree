@@ -13,6 +13,10 @@ const data = ref([
     link: "https://magicskin-bedrock.kfn.moe/"
   },
   {
+    name: "💸 ร้านรับทำฟิกุร่าและโมเดล",
+    link: "https://figura.kfn.moe/"
+  },
+  {
     name: "❤️ Youtube @funeehe",
     link: "https://www.youtube.com/@funeehe"
   },
