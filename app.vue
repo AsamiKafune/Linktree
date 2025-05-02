@@ -5,6 +5,10 @@ const data = ref([
     link: "https://kfn.moe"
   },
   {
+    name: "📦 Discord @Kafune",
+    link: "https://discord.gg/6b8xgS5Rtz"
+  },
+  {
     name: "📦 Discord @Mirror",
     link: "https://discord.gg/tPgvkjhakm"
   },
@@ -15,6 +19,10 @@ const data = ref([
   {
     name: "💸 ร้านรับทำฟิกุร่าและโมเดล",
     link: "https://figura.kfn.moe/"
+  },
+  {
+    name: "🔮 โปรไฟล์ดิสคอต",
+    link: "https://discord.com/users/949872498919481364"
   },
   {
     name: "❤️ Youtube @funeehe",
