@@ -10,7 +10,7 @@ const data = ref([
   },
   {
     name: "📦 Discord @Mirror",
-    link: "https://discord.gg/tPgvkjhakm"
+    link: "https://discord.gg/yH7dRDG4YG"
   },
   {
     name: "✨ แอดออนสกินสำหรับมือถือ",
