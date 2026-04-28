@@ -5,12 +5,16 @@ const data = ref([
     link: "https://kfn.moe"
   },
   {
-    name: "📦 Discord @Kafune",
-    link: "https://discord.gg/6b8xgS5Rtz"
+    name: "📦 Discord @Magiclab Support",
+    link: "https://discord.gg/WYVrwFmBZJ"
   },
   {
     name: "📦 Discord @Mirror",
     link: "https://discord.gg/yH7dRDG4YG"
+  },
+  {
+    name: "📦 Discord @Kafune (ตัววี)",
+    link: "https://discord.gg/6b8xgS5Rtz"
   },
   {
     name: "✨ แอดออนสกินสำหรับมือถือ",
