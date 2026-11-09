@@ -17,6 +17,10 @@ const data = ref([
     link: "https://discord.gg/6b8xgS5Rtz"
   },
   {
+    name: "✨ มอดสกินสำหรับ JAVA",
+    link: "https://modrinth.com/mod/magicskin"
+  },
+  {
     name: "✨ แอดออนสกินสำหรับมือถือ",
     link: "https://magicskin-bedrock.kfn.moe/"
   },
